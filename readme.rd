@@ -3,7 +3,7 @@
 A clinical decision support tool that estimates cardiovascular risk based on patient-reported symptoms and clinical measurements.
 
 ## 🔗 Live Demo
-Click here to open the app: https://cardiovascular-risk-app-7amjvvncpljkpuxfetvscm.streamlit.app/ 
+Click here to open the app: https://cardiovascular-risk-app-imanebelbachir.streamlit.app/ 
 
 ## ⚙️ How It Works
 The app uses a transparent rule-based scoring system starting from 0%.
