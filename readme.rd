@@ -12,7 +12,7 @@ Each risk factor adds a clinically-informed percentage to the total score, based
 - ACC/AHA 2017 guidelines (blood pressure)
 - AHA recommendations (diabetes, cholesterol)
 
-## 📊 Risk Factors Assessed
+## Risk Factors Assessed
 - Age
 - Sex
 - Diabetes
@@ -25,7 +25,7 @@ Each risk factor adds a clinically-informed percentage to the total score, based
 - Persistent cough
 - Fatigue/breathlessness
 
-## 🚀 Run Locally
+## Run Locally
 
 1. Clone the repo:
    git clone https://github.com/YOUR_USERNAME/cardiovascular-risk-app.git
